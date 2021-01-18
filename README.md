@@ -1,7 +1,7 @@
 # Information about this fork
 This fork added support for auto dark/light mode based on system preferences. [demo here](https://imgur.com/a/8fM1kRk) 
 
-After getting small amount of attention, it got merged in [this PR!](https://github.com/aydenp/Ultrasound/pull/10) 
+After getting small amount of attention, it got merged in [this PR!](https://github.com/aydenp/Ultrasound/pull/11) 
 
 ## Ultrasound
 
